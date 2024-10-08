@@ -1,0 +1,5 @@
+20:12:28:894 [main] INFO  testCases.TC001_AccountRegistrationTest - Start of the first test case
+20:12:28:912 [main] INFO  testCases.TC001_AccountRegistrationTest - clicking on Myaccount
+20:12:29:840 [main] INFO  testCases.TC001_AccountRegistrationTest - click on save button
+20:12:30:383 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+20:12:30:383 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
