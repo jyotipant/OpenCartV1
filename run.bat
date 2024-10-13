@@ -1,2 +1,2 @@
-cd C:\Users\91757\eclipse-workspace\OpenCartV1
+cd C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
 mvn test
